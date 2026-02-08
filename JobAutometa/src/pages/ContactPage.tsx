@@ -29,7 +29,7 @@ export function ContactPage() {
 
     try {
       // Formspree endpoint - using the endpoint you provided
-      const response = await fetch("https://formspree.io/f/xykdydad", {
+      const response = await fetch("https://formspree.io/f/xaqdypzy", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
